@@ -1,1 +1,1 @@
-# Online-quiz-using-java
+Developing an engaging and dynamic framework to administer quizzes online is the aim of the Java online quiz project. Users of the system can sign up, log in, and take part in a variety of topic-based quizzes. It has functions like question randomization, question timing, and real-time feedback on user answers. 
